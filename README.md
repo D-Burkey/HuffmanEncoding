@@ -3,7 +3,6 @@
   This program enables a user to compress and decompress text files using the huffman encoding algorithm.
 
 --HOW TO USE--
-  
   -OVERVIEW
   To compress: run the program with the first parameter being the text file being compressed (and its full file path) and the second parameter being the letter "c"
     e.g. HuffmanEncoding.exe fileNameAndPath.txt c
